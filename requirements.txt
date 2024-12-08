@@ -1,1 +1,4 @@
-streamlit
+streamlit==1.25.0   # Ensure the latest compatible version with your environment
+numpy==1.23.5       # Match TensorFlow requirements
+tensorflow==2.13.0  # Version compatible with your model's saved format
+Pillow==9.5.0       # For image loading and processing
